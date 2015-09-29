@@ -1,0 +1,37 @@
+#-*- mode: org; -*-
+#+DATE: 2015-09-28 22:58:24.512613
+#+TITLE: 華嚴懸談會玄記
+#+PROPERTY: CBETA_ID X08n0236
+#+PROPERTY: ID KR6e0120
+#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 08, No. 236
+#+PROPERTY: VOL 08
+#+PROPERTY: BASEEDITION X
+#+PROPERTY: WITNESS CBETA
+
+<pb:KR6e0120_X_000-0090a>
+[[file:KR6e0120_011.txt::0167b17][音釋¶]]
+[[file:KR6e0120_012.txt::0175a14][音釋¶]]
+[[file:KR6e0120_013.txt::0185a10][音釋¶]]
+[[file:KR6e0120_014.txt::0191c24][音釋¶]]
+[[file:KR6e0120_015.txt::0204a18][音釋¶]]
+[[file:KR6e0120_016.txt::0215c23][音釋¶]]
+[[file:KR6e0120_021.txt::0257b6][音釋¶]]
+[[file:KR6e0120_022.txt::0264c2][音釋¶]]
+[[file:KR6e0120_023.txt::0271b4][音釋¶]]
+[[file:KR6e0120_024.txt::0279a4][音釋¶]]
+[[file:KR6e0120_025.txt::0285c10][音釋¶]]
+[[file:KR6e0120_026.txt::0293b3][音釋¶]]
+[[file:KR6e0120_027.txt::0300a22][音釋¶]]
+[[file:KR6e0120_028.txt::0307a15][音釋¶]]
+[[file:KR6e0120_029.txt::0314c9][音釋¶]]
+[[file:KR6e0120_030.txt::0322b9][音釋¶]]
+[[file:KR6e0120_031.txt::0329c7][音釋¶]]
+[[file:KR6e0120_032.txt::0337b5][音釋¶]]
+[[file:KR6e0120_033.txt::0345c18][音釋¶]]
+[[file:KR6e0120_034.txt::0355a7][音釋¶]]
+[[file:KR6e0120_035.txt::0365a8][音釋¶]]
+[[file:KR6e0120_036.txt::0371b5][音釋¶]]
+[[file:KR6e0120_037.txt::0383b19][音釋¶]]
+[[file:KR6e0120_038.txt::0394b21][音釋¶]]
+[[file:KR6e0120_039.txt::0404b15][音釋¶]]
+[[file:KR6e0120_040.txt::0413a22][音釋¶]]
