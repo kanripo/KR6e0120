@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:24.920810
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:21
 #+TITLE: 華嚴懸談會玄記
 #+PROPERTY: CBETA_ID X08n0236
 #+PROPERTY: ID KR6e0120
@@ -620,7 +620,7 @@
 之中亦三乘故。】¶
 華嚴懸談會玄記卷第十四¶
 
-音釋¶
+* 音釋¶
 
 蟾蜍
 
